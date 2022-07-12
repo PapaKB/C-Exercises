@@ -1,5 +1,5 @@
 # C Exercises
-Shows some begginer programming tasks in C.
+2020: Shows some begginer programming tasks in C.
 
 ## What I Learned
 * Creating functions
