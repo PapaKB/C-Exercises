@@ -2,9 +2,9 @@
 Shows some begginer programming tasks in C.
 
 ## What I Learned
+* Creating functions
 * Pointers, dereferencing
 * Prototyping
-*
 
 # Demonstration - Introduction
 <img width="214" alt="Introduction" src="https://user-images.githubusercontent.com/81168517/178524444-910c50cf-bbc9-4d77-b285-e7b1a3ec3b6f.png">
